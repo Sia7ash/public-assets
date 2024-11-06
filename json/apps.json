@@ -67,7 +67,7 @@
     "urlScheme": "hiddify://install-sub",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
     "link": "Hiddify://install-sub?url={url}&name=SUBnew",
-    "os": ["iOS", "Android","Windows"],
+    "os": ["iOS", "Android", "Windows"],
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
       "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=fa&pli=1=en_GB",
