@@ -33,28 +33,6 @@
     },
     "ShowInMenu": true
   },
-     {
-    "name": "Hiddify Next",
-    "urlScheme": "hiddify://import/",
-    "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
-    "link": "hiddify://import/{url}",
-    "os": ["Android"],
-    "downloadLinks": {
-      "Android": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw"
-    },
-    "ShowInMenu": true
-  },
-      {
-    "name": "Hiddify",
-    "urlScheme": "hiddify://import/",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/8d/cb/9b8dcb5a-2922-0412-d4c4-3cc2c286da04/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp",
-    "link": "hiddify://import/{url}",
-    "os": ["iOS"],
-    "downloadLinks": {
-      "iOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"
-    },
-    "ShowInMenu": true
-  },
   {
     "name": "V2rayN",
     "urlScheme": "v2rayng://install-config",
@@ -83,6 +61,28 @@
       "Linux": "https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip"
     },
     "ShowInMenu": false
+  },
+       {
+    "name": "Hiddify Next",
+    "urlScheme": "hiddify://import/",
+    "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
+    "link": "hiddify://import/{url}",
+    "os": ["Android"],
+    "downloadLinks": {
+      "Android": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw"
+    },
+    "ShowInMenu": true
+  },
+      {
+    "name": "Hiddify",
+    "urlScheme": "hiddify://import/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/8d/cb/9b8dcb5a-2922-0412-d4c4-3cc2c286da04/AppIcon-0-0-1x_U007epad-0-85-220.png/246x0w.webp",
+    "link": "hiddify://import/{url}",
+    "os": ["iOS"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"
+    },
+    "ShowInMenu": true
   },
   {
     "name": "SingBox",
